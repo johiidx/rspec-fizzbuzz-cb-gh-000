@@ -11,3 +11,4 @@ def fizzbuzz(x)
     puts "Buzz"
   end
 end
+  
