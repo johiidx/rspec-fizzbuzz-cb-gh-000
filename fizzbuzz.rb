@@ -7,6 +7,6 @@ def fizzbuzz(x)
   elsif x % 3 != 0
     nil
   end
-  elsif x % 3 == 0 && x % 5 == 0
+else x % 3 == 0 && x % 5 == 0
     "Buzz"
 end
