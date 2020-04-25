@@ -3,8 +3,11 @@
 def fizzbuzz(x)
   if x % 3 == 0
     "Fizz"
+  end
   elseif x % 3 != 0
     nil
+  end
   elseif x % 3 == 0 && x % 5 == 0
     "Buzz"
+  end
 end
